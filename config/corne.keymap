@@ -10,7 +10,7 @@
 
 &sk {
   quick-release;
-}
+};
 
 / {
         keymap {
