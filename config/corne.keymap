@@ -12,6 +12,10 @@
   quick-release;
 };
 
+&mt {
+    flavor = "balanced";
+};
+
 / {
         combos {
             compatible = "zmk,combos";
